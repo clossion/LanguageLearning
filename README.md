@@ -111,3 +111,13 @@
 
 * **词典数据**: [ECDICT Project by skywind3000](https://github.com/skywind3000/ECDICT)
 * **TTS 模型**: [Kokoro-82M by hexgrad](https://huggingface.co/hexgrad/Kokoro-82M)
+
+<img width="1266" height="713" alt="QQ_1754040482980" src="https://github.com/user-attachments/assets/5354fdc7-6b10-4d0a-86ec-d6dcfc63282e" />
+  
+<img width="1920" height="1032" alt="QQ_1754040449870" src="https://github.com/user-attachments/assets/e2ce3b06-9dac-4cfb-94c1-2c5e017d2685" />
+
+<img width="1920" height="1032" alt="QQ_1754040441206" src="https://github.com/user-attachments/assets/7548d7ee-c0e7-4028-85f5-a67d0c75d57d" />
+
+<img width="1266" height="713" alt="QQ_1754040428293" src="https://github.com/user-attachments/assets/79d6649e-3ce0-4e64-b300-942340179fd9" />
+
+
