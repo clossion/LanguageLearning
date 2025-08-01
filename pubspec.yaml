@@ -1,0 +1,71 @@
+name: frontend
+description: "A new Flutter project."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.7.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  http: ^0.13.5
+  file_picker: ^5.5.0
+  intl: ^0.18.1
+  flutter_svg: ^2.0.9
+  shared_preferences: ^2.5.3
+  flutter_riverpod: ^2.5.1
+  sqflite: ^2.0.0+4
+  path: ^1.9.0
+  dotted_border: ^2.0.0
+  media_kit: ^1.1.11
+  media_kit_video: ^1.2.5
+  media_kit_libs_video: ^1.0.5 
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+    - assets/icons/close.svg
+    - assets/icons/sidebar-open.svg
+    - assets/icons/sidebar-close.svg
+    - assets/icons/page-view.svg
+    - assets/icons/sentence-view.svg
+    - assets/icons/vocabulary-icon.svg
+    - assets/icons/trash.svg
+    - assets/icons/check.svg
+    - assets/icons/video-play.svg
+    - assets/icons/video/fast-backward-5.svg
+    - assets/icons/video/fast-forward-5.svg
+    - assets/icons/video/repeat.svg
+    - assets/icons/video/subtitle-display-on.svg
+    - assets/icons/video/subtitle-display-off.svg
+  fonts:
+  - family: NotoSansSC
+    fonts:
+      - asset: assets/fonts/NotoSansSC/NotoSansSC-VariableFont_wght.ttf
+      - asset: assets/fonts/NotoSansSC/static/NotoSansSC-Regular.ttf
+      - asset: assets/fonts/NotoSansSC/static/NotoSansSC-Medium.ttf
+        weight: 500
+      - asset: assets/fonts/NotoSansSC/static/NotoSansSC-Bold.ttf
+        weight: 700
+      # 如果有更多字重，继续添加
+      - asset: assets/fonts/NotoSansSC/static/NotoSansSC-Light.ttf
+        weight: 300
+      - asset: assets/fonts/NotoSansSC/static/NotoSansSC-Thin.ttf
+        weight: 100
+  - family: Roboto
+    fonts:
+      - asset: assets/fonts/Roboto/static/Roboto-Regular.ttf
+      - asset: assets/fonts/Roboto/static/Roboto-Medium.ttf
+        weight: 500
+      - asset: assets/fonts/Roboto/static/Roboto-Bold.ttf
+        weight: 700
+
